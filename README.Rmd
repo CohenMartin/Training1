@@ -27,6 +27,18 @@ You can install the development version of Training1 like so:
 ``` r
 # FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
 ```
+## GIT
+Setting up a new repositiory on GitHub
+'''
+
+echo "# Training1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/CohenMartin/Training1.git
+git push -u origin main
+
 
 ## Example
 

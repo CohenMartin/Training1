@@ -1,11 +1,11 @@
 Package: Training1
 Type: Package
 Title: Helps collect and store Reddit data
-Version: 0.2.0
+Version: 0.2.1
 Author: Martin Cohen
 Maintainer: Martin Cohen <martin7cohen@gmail.com>
 Description: Helps to save data from postgresql.
-License: What license is it under?
+License: MIT + file LICENSE
 Depends:
     glue
 Encoding: UTF-8
